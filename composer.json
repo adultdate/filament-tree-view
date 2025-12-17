@@ -1,5 +1,5 @@
 {
-    "name": "openplain/filament-tree-view",
+    "name": "adultdate/filament-tree-view",
     "description": "Tree view for Filament resources - drop-in replacement for Table with drag-and-drop hierarchical data management",
     "keywords": [
         "filament",
